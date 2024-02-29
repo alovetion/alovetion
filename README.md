@@ -1,7 +1,6 @@
-<img align="right" alt="Coding" width="1200" src="https://pbs.twimg.com/profile_banners/1751130305878982656/1707162968/1500x500">
-                                                                      
-                                                                               
-                                                                               
+<img align="right" alt="Coding" width="1200" src="https://pbs.twimg.com/profile_banners/1751130305878982656/1707162968/1500x500">ㅤ
+ㅤㅤ
+ㅤ
                                                                                <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/alovetion" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
